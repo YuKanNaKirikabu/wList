@@ -896,7 +896,9 @@
                     plusIcon.textContent = '+';
                     addCard.appendChild(plusIcon);
                     
-                    addCard.addEventListener('click', function() {
+                    addCard.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        e.stopPropagation();
                         editingCardIndex = null;
                         modalTitle.textContent = 'Добавить карточку';
                         cardForm.reset();
@@ -959,6 +961,7 @@
                 editOption.addEventListener('click', function(e) {
                     e.preventDefault();
                     e.stopPropagation();
+                    hideAllMenus();
                     openEditModal(index);
                 });
                 
@@ -1070,7 +1073,9 @@
                     imagePreview.innerHTML = '<span>Предпросмотр изображения</span>';
                 }
                 
-                cardModal.style.display = 'flex';
+                setTimeout(() => {
+                    cardModal.style.display = 'flex';
+                }, 10);
             }
 
             cardImage.addEventListener('input', function() {
@@ -1146,7 +1151,7 @@
             });
 
             document.addEventListener('click', function(e) {
-                if (!e.target.closest('.card-menu')) {
+                if (!e.target.closest('.card-menu') && !e.target.closest('.modal')) {
                     hideAllMenus();
                 }
             });
