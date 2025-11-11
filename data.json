@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-11T00:01:04.390Z",
+  "lastUpdated": "2025-11-11T00:37:45.445Z",
   "items": [
     {
       "title": "Ультрабол Коллекционный набор",
@@ -108,6 +108,276 @@
       "status": "active",
       "price": "14600",
       "createdAt": 1762819231840
+    },
+    {
+      "title": "Акустическая гитара Donner Hush I Silent",
+      "website": "https://www.ozon.ru/product/akusticheskaya-gitara-donner-hush-i-silent-guitar-1640573180/?abt_att=1&origin_referer=www.ozon.ru",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/7356899032.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "14200",
+      "createdAt": 1762819472119
+    },
+    {
+      "title": "Электрогитара АК",
+      "website": "https://www.ozon.ru/product/gitara-ak-shestistrunnaya-elektrogitara-izgotovlennaya-v-kitae-2632722807",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-0/wc1000/7836687468.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "15000",
+      "createdAt": 1762819523606
+    },
+    {
+      "title": "Электрогитара Stratocaster GLAT",
+      "website": "https://www.ozon.ru/product/glat-elektrogitara-stratocaster-6-strunnaya-korpus-akril-2150039498",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-4/wc1000/7551531472.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "17000",
+      "createdAt": 1762819568079
+    },
+    {
+      "title": "Цифровая гибридная гитара Enya Cyber G/BK",
+      "website": "https://www.ozon.ru/product/tsifrovaya-gibridnaya-gitara-enya-cyber-g-bk-p-2569512122",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-6/wc1000/7747567962.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "32000",
+      "createdAt": 1762819603647
+    },
+    {
+      "title": "Синтезатор MusicHall Fantasia",
+      "website": "https://www.ozon.ru/product/sintezator-musichall-fantasia-61-klavisha-chernyy-1977136624",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-m/wc1000/8202971326.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "5800",
+      "createdAt": 1762819634519
+    },
+    {
+      "title": "Комбоусилитель RL Black ",
+      "website": "https://www.ozon.ru/product/rl-black-kombousilitel-dlya-gitary-6-vt-s-bluetooth-portativnyy-dlya-doma-i-repetitsiy-s-2511284495",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-z/wc1000/7650844739.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "5000",
+      "createdAt": 1762819678639
+    },
+    {
+      "title": "Электроукулеле MS3700",
+      "website": "https://www.ozon.ru/product/ukulele-ms3700-2060491891-b8qh-2594745120",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-6/wc1000/7236212586.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "8750",
+      "createdAt": 1762819728391
+    },
+    {
+      "title": "Светящаяся Лампа Покемон",
+      "website": "https://www.ozon.ru/product/figurka-svetyashchayasya-lampa-5-sm-1643626460/?from_sku=1643626217&oos_search=false",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-l/wc1000/7088887569.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "620",
+      "createdAt": 1762819861998
+    },
+    {
+      "title": "Светящаяся Лампа Покемон",
+      "website": "https://www.ozon.ru/product/figurka-svetyashchayasya-lampa-5-sm-1643626588/?from_sku=1643626217&oos_search=false",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-5/wc1000/7088887733.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "640",
+      "createdAt": 1762819883046
+    },
+    {
+      "title": "Светящаяся Лампа Покемон",
+      "website": "https://www.ozon.ru/product/figurka-svetyashchayasya-lampa-5-sm-1643626217/?from_sku=1643626217&oos_search=false",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-1/wc1000/7088887657.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "590",
+      "createdAt": 1762819908288
+    },
+    {
+      "title": "Фигурка Фрирен",
+      "website": "https://www.ozon.ru/product/figurka-friren-provozhayushchaya-v-posledniy-put-s-knigoy-sousou-no-frieren-12sm-paket-2435619320",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-7/wc1000/7688363731.jpg",
+      "category": "uncommon",
+      "status": "active",
+      "price": "360",
+      "createdAt": 1762820528558
+    },
+    {
+      "title": "Фигурка Макима",
+      "website": "https://www.ozon.ru/product/figurka-chelovek-benzopila-makima-chainsaw-man-noodle-stopper-figure-makima-1932757425",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-w/wc1000/7381796792.jpg",
+      "category": "uncommon",
+      "status": "active",
+      "price": "340",
+      "createdAt": 1762820556735
+    },
+    {
+      "title": "Фигурка Слепой Сторож",
+      "website": "https://www.ozon.ru/product/figurka-malenkie-koshmary-slepoy-storozh-rodzher-dvornik-little-nightmares-10sm-paket-2468667612",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-2/wc1000/7322558618.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "570",
+      "createdAt": 1762820587550
+    },
+    {
+      "title": "Фигурка Марин Китагава",
+      "website": "https://www.ozon.ru/product/anime-figurka-marin-kitagava-eta-farforovaya-kukla-vlyubilas-kitagawa-marin-13-sm-2095098435",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-7/wc1000/7516883995.jpg",
+      "category": "uncommon",
+      "status": "active",
+      "price": "410",
+      "createdAt": 1762820613015
+    },
+    {
+      "title": "Фигурка Ребекка",
+      "website": "https://www.ozon.ru/product/figurka-kiberpank-begushchie-po-krayu-rebekka-cyberpunk-edgerunners-rebecca-17sm-2030992350",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-h/wc1000/7472593781.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "630",
+      "createdAt": 1762820641086
+    },
+    {
+      "title": "Сумка Trauma Team ",
+      "website": "https://www.ozon.ru/product/sumka-pochtalonka-tkanevaya-cyberpunk-2077-trauma-team-international-928470638",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-l/wc1000/6617378397.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "1900",
+      "createdAt": 1762820675014
+    },
+    {
+      "title": "Cyberpunk 2077 Нож",
+      "website": "https://www.ozon.ru/product/cyberpunk-2077-kinzhal-iz-splava-model-18-sm-1954517635",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-5/wc1000/7257690185.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "680",
+      "createdAt": 1762820731206
+    },
+    {
+      "title": "Череп Киберпанк",
+      "website": "https://www.ozon.ru/product/cherep-kiberpank-2077-razmer-xl-20sm-figurka-kollektsionnaya-cyberpunk-2077-skull-2190819023",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-y/wc1000/7631862190.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "2830",
+      "createdAt": 1762820759614
+    },
+    {
+      "title": "Фигурка Holo",
+      "website": "https://www.ozon.ru/product/anime-figurka-ookami-to-koushinryou-merchant-meets-the-wise-wolf-holo-15cm-1966936436",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-z/wc1000/7411592735.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "600",
+      "createdAt": 1762820792806
+    },
+    {
+      "title": " Брелока Arasaka",
+      "website": "https://www.ozon.ru/product/breloka-arasaka-arasaka-1708228084",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-n/wc1000/8272810571.jpg",
+      "category": "uncommon",
+      "status": "active",
+      "price": "350",
+      "createdAt": 1762820827342
+    },
+    {
+      "title": "Фигурка Дэвид",
+      "website": "https://www.ozon.ru/product/anime-figurka-kiberpank-devid-cyberpunk-david-17cm-korobka-1738430345",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-e/wc1000/7803493898.jpg",
+      "category": "rare",
+      "status": "active",
+      "price": "600",
+      "createdAt": 1762820850807
+    },
+    {
+      "title": "Проигрыватель пластинок",
+      "website": "https://www.ozon.ru/product/proigryvatel-dlya-vinilovyh-plastinok-alive-audio-glam-chernyy-glm-01-399034510",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-c/wc1000/7564604376.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "5150",
+      "createdAt": 1762820877230
+    },
+    {
+      "title": "Youtooz Jinx",
+      "website": "https://www.ozon.ru/product/youtooz-nebolshie-skulptury-igrovye-kollektsionnye-figurki-ip-2299293620",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-p/wc1000/7623543373.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "4700",
+      "createdAt": 1762820908942
+    },
+    {
+      "title": "Youtooz Maxwell",
+      "website": "https://www.ozon.ru/product/youtooz-don-t-starve-together-maxwell-3-5-inch-kollektsionnye-igrushki-1822611707",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-u/wc1000/7061655306.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "1720",
+      "createdAt": 1762820964999
+    },
+    {
+      "title": "Youtooz Webber",
+      "website": "https://www.ozon.ru/product/youtooz-don-t-starve-together-webber-3-5-inch-kollektsionnye-igrushki-1822611555",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-n/wc1000/7261584323.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "1740",
+      "createdAt": 1762820989662
+    },
+    {
+      "title": "Перфопанель",
+      "website": "https://www.ozon.ru/product/organayzer-dlya-hraneniya-veshchey-90h5h30-sm-3004602104",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-7/wc1000/8196241363.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "1320",
+      "createdAt": 1762821024294
+    },
+    {
+      "title": "Электроакустическая гитара YanDou ",
+      "website": "https://www.ozon.ru/product/yandou-akusticheskaya-gitara-elektroakusticheskaya-9d8b59ccac234c55-6-strunnaya-1147926532",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-b/wc1000/6849689303.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "5850",
+      "createdAt": 1762821100231
+    },
+    {
+      "title": "Razer Viper Ultimate",
+      "website": "https://www.ozon.ru/product/igrovaya-mysh-besprovodnaya-razer-viper-ultimate-zheltyy-1680520333",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-m/wc1000/7233190726.jpg",
+      "category": "legendary",
+      "status": "active",
+      "price": "13950",
+      "createdAt": 1762821133342
+    },
+    {
+      "title": "Funko POP! Jinx",
+      "website": "https://www.ozon.ru/product/figurka-funko-pop-tv-arcane-league-of-legends-jinx-1602-75649-1840917911/?_bctx=CAMQgdH9TQ&at=OgtEQrl5xhNAxVo0IBO55DfAgqwkEuv2M9RDiDjW66",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-g/wc1000/8090867104.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "1660",
+      "createdAt": 1762821420630
+    },
+    {
+      "title": "Funko POP! Emily",
+      "website": "https://www.ozon.ru/product/figurka-funko-pop-plus-corpse-bride-s2-emily-with-butterflies-1830-86263-2968537007/?_bctx=CAMQgdH9TQ&at=x6tPNqDmvcRKYvk1u0wkRniW1QzyxIBn6VzDCkngyk",
+      "image": "https://ir-8.ozone.ru/s3/multimedia-1-d/wc1000/8149607761.jpg",
+      "category": "epic",
+      "status": "active",
+      "price": "1660",
+      "createdAt": 1762821447718
     }
   ]
 }
