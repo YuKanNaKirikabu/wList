@@ -1268,16 +1268,28 @@
                             }));
 
                             const localCards = JSON.parse(localStorage.getItem('wListCards')) || [];
-                            const mergedCards = [...githubCards];
+                            const keyFromCard = card => `${card.name}__${card.url}`;
+                            const mergedMap = new Map();
+
+                            githubCards.forEach(card => {
+                                mergedMap.set(keyFromCard(card), card);
+                            });
 
                             localCards.forEach(localCard => {
-                                const exists = mergedCards.some(gc => 
-                                    gc.name === localCard.name && gc.url === localCard.url
-                                );
-                                if (!exists) {
-                                    mergedCards.push(localCard);
+                                const key = keyFromCard(localCard);
+                                if (mergedMap.has(key)) {
+                                    const remoteCard = mergedMap.get(key);
+                                    mergedMap.set(key, {
+                                        ...remoteCard,
+                                        ...localCard,
+                                        createdAt: localCard.createdAt || remoteCard.createdAt
+                                    });
+                                } else {
+                                    mergedMap.set(key, localCard);
                                 }
                             });
+
+                            const mergedCards = Array.from(mergedMap.values());
                             
                             cards = mergedCards;
                             localStorage.setItem('wListCards', JSON.stringify(cards));
